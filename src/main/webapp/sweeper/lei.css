@@ -1,0 +1,110 @@
+#li {
+    margin: 50px auto;   //li最外层区域，让内容居中并设置大小为50
+ }
+.level{
+    test-align:center;
+    margin-bottom: 10px;
+ }
+.level button{
+    padding: 5px 15px;
+    background-color: aquamarine;
+    border: none;
+    color: peachpuff;
+    border-radius: 3px;
+    outline: none;
+    cursor: pointer;
+ }
+.level button.active {
+    background-color: aquamarine;
+ }
+
+table{
+    border-spacing: 1px;
+    background-color: azure;
+    margin: 0 auto;
+ }
+td{
+ padding: 0;
+    width: 20px;
+    height: 20px;
+    background-color: cadetblue;
+    border: 2px solid;
+    background-color:beige ;//展示一个
+    text-align:center;
+    line-height: 20px;
+    font-weight: bold;
+ }
+
+.info{
+    margin-top: 10px;
+    text-align: center;
+}
+
+.tips{
+    color: red;
+    font-size: 16px;
+}
+
+.mine {
+    background: #d9d9d9 url(../images/2020092214171335.png) no-repeat center;
+    background-size: cover;
+}
+.flag {
+    background: #ccc url(../images/20200922141713142.png) no-repeat center;
+    background-size: cover;
+}
+
+
+
+td.zero {
+    background-color: #d9d9d9;
+    border-color: #d9d9d9;
+}
+
+td.one {
+    background-color: #d9d9d9;
+    border-color: #d9d9d9;
+    color: #0332fe;
+}
+
+td.two {
+    background-color: #d9d9d9;
+    border-color: #d9d9d9;
+    color: #019f02;
+}
+
+td.three {
+    background-color: #d9d9d9;
+    border-color: #d9d9d9;
+    color: #ff2600;
+}
+
+td.four {
+    background-color: #d9d9d9;
+    border-color: #d9d9d9;
+    color: #93208f;
+}
+
+td.five {
+    background-color: #d9d9d9;
+    border-color: #d9d9d9;
+    color: #ff7f29;
+}
+
+td.six {
+    background-color: #d9d9d9;
+    border-color: #d9d9d9;
+    color: #ff3fff;
+}
+
+td.seven {
+    background-color: #d9d9d9;
+    border-color: #d9d9d9;
+    color: #3fffbf;
+}
+
+td.eight {
+    background-color: #d9d9d9;
+    border-color: #d9d9d9;
+    color: #22ee0f;
+}
